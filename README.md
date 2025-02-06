@@ -26,4 +26,6 @@ Now, with all the information above, we can ceate a complete Half Adder circuit.
 # Physical Half Adder Circuit
 Once we understand all the information we need to know we can make the Half Adder circuit in a real circuit using some resistors, some butttons, some wires, some gates and some LED lights.
 
-
+# References
+Admin. (2020, July 28). Binary addition- definition, rules, method, tricks and examples. BYJUS. https://byjus.com/maths/binary-addition/ 
+GeeksforGeeks. (2024, September 23). Half adder in digital logic. https://www.geeksforgeeks.org/half-adder-in-digital-logic/ 
