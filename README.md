@@ -24,7 +24,24 @@ Now, with all the information above, we can ceate a complete Half Adder circuit.
 ![image](https://github.com/user-attachments/assets/70da8d5e-2c6b-4870-b3be-167b39572b0d)
 
 # Physical Half Adder Circuit
-Once we understand all the information we need to know, we can make the Half Adder circuit in a real circuit using some resistors, some butttons, some wires, some gates and some LED lights.
+Once we understand all the information we need to know, we can make the Half Adder circuit in a real circuit using some resistors, some butttons, some wires, some gates and some LED lights. 
+
+![image](https://github.com/user-attachments/assets/c9b5db52-4d31-438c-bea1-a6bf1661aa78)
+
+In the image above we can see how the two inputs (A and B) are 1, in the XOR gate the output is 0, but has a carry output of 1, that's why only the first LED is turn on.
+
+![image](https://github.com/user-attachments/assets/7294867d-2ce5-4d69-875b-5b1cedec7178)
+
+In this image we can see how the input is 0 and 1. When the current goes through the XOR this make the S output to be 1 and the AND gate continue to carry an output of 0. This is why only the second LED is turn on.
+
+
+# Where can we find a half adder circuit?
+
+ The half adder circuit is only a tiny part of big engines, for example we can find the half adder circuit in computers, in theirs CPU, in simple calculators and in hardwares. In this image I am going to show you where we can also find a hald adder circuit.
+ 
+ ![image](https://github.com/user-attachments/assets/d02570ed-a743-455d-aaaa-7c7fa9f38728)
+
+A RAM memory.
 
 # References
 Admin. (2020, July 28). Binary addition- definition, rules, method, tricks and examples. BYJUS. https://byjus.com/maths/binary-addition/ 
