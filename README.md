@@ -32,12 +32,12 @@ In the image above we can see how the two inputs (A and B) are 1, in the XOR gat
 
 ![image](https://github.com/user-attachments/assets/7294867d-2ce5-4d69-875b-5b1cedec7178)
 
-In this image we can see how the input is 0 and 1. When the current goes through the XOR this make the S output to be 1 and the AND gate continue to carry an output of 0. This is why only the second LED is turn on.
+In this image we can see how the input is 0 and 1. When the current goes through the XOR this make the S output to be 1 and the AND gate continues to carry an output of 0. This is why only the second LED is turn on.
 
 
 # Where can we find a half adder circuit?
 
- The half adder circuit is only a tiny part of big engines, for example we can find the half adder circuit in computers, in theirs CPU, in simple calculators and in hardwares. In this image I am going to show you where we can also find a hald adder circuit.
+ The half adder circuit is only a tiny part of big engines, for example we can find the half adder circuit in computers, in theirs CPU, in simple calculators and in hardwares. In this image I am going to show you where we can also find a half adder circuit.
  
  ![image](https://github.com/user-attachments/assets/d02570ed-a743-455d-aaaa-7c7fa9f38728)
 
